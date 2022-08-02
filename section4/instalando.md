@@ -1,0 +1,4 @@
+-> instalar o Node, versao LTS -> mais estável.
+-> node -v
+-> npm -v (NPM é um gerenciador de projetos/bibiotecas)
+-> npx create-react-app nome_do_meu_projeto
